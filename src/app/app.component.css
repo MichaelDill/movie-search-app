@@ -1,0 +1,33 @@
+
+
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  align-content: center;
+  display: flex;
+}
+
+#searchbar {
+  width: 80%;
+  min-width: 200px;
+  margin: 1em auto 1em auto;
+  background-color: black;
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+  outline: none;
+  caret-color: chartreuse;
+  border: none;
+  border-bottom: thin;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  margin: 0 2em;
+}
